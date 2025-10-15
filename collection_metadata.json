@@ -1,7 +1,10 @@
 {
-    "name": "test",
-    "description": "test",
+    "name": "IBMM Club",
+    "description": "Old school miners meet the new chain. Powered by IBMM.",
     "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/ibmm_ava.jpg",
     "cover_image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/ibmm_cover_1.jpg",
-    "social_links": []
+    "social_links": [
+        "https://ibmm.ru",
+        "https://t.me/ibmmRU"
+    ]
 }
