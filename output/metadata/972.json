@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #973",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/972.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "toxic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "toxic"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "toxic"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "viking"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "viking"
+    },
+    {
+      "trait_type": "Button",
+      "value": "viking"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "japan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "china"
+    }
+  ]
+}

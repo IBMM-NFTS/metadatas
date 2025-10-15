@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #975",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/974.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "china"
+    },
+    {
+      "trait_type": "Body",
+      "value": "china"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "china"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "bearish"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "bearish"
+    },
+    {
+      "trait_type": "Button",
+      "value": "bearish"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "viking"
+    },
+    {
+      "trait_type": "Background",
+      "value": "moon"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #898",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/897.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "slavic-og"
+    },
+    {
+      "trait_type": "Body",
+      "value": "slavic-og"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "slavic-og"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "khokhloma"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "khokhloma"
+    },
+    {
+      "trait_type": "Button",
+      "value": "khokhloma"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "matryoshka"
+    },
+    {
+      "trait_type": "Background",
+      "value": "moon"
+    }
+  ]
+}

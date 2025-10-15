@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #405",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/404.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "japan"
+    },
+    {
+      "trait_type": "Body",
+      "value": "japan"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "japan"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "stable"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "stable"
+    },
+    {
+      "trait_type": "Button",
+      "value": "stable"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "china"
+    },
+    {
+      "trait_type": "Background",
+      "value": "japan"
+    }
+  ]
+}

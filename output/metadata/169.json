@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #170",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/169.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "oldmoney"
+    },
+    {
+      "trait_type": "Body",
+      "value": "oldmoney"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "oldmoney"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "khokhloma"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "khokhloma"
+    },
+    {
+      "trait_type": "Button",
+      "value": "khokhloma"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "squid"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mars"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #757",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/756.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "stable"
+    },
+    {
+      "trait_type": "Body",
+      "value": "stable"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "stable"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "mexico"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "mexico"
+    },
+    {
+      "trait_type": "Button",
+      "value": "mexico"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "tg"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hogwarts"
+    }
+  ]
+}

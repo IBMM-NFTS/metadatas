@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #491",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/490.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "squid"
+    },
+    {
+      "trait_type": "Body",
+      "value": "squid"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "squid"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "retro"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "retro"
+    },
+    {
+      "trait_type": "Button",
+      "value": "retro"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "lambo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "china"
+    }
+  ]
+}

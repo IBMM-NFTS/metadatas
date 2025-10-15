@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #307",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/306.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "stable"
+    },
+    {
+      "trait_type": "Body",
+      "value": "stable"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "stable"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "viking"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "viking"
+    },
+    {
+      "trait_type": "Button",
+      "value": "viking"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "ufo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "egypt"
+    }
+  ]
+}

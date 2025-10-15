@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #25",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/24.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "slavic-og"
+    },
+    {
+      "trait_type": "Body",
+      "value": "slavic-og"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "slavic-og"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Button",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "mexico"
+    },
+    {
+      "trait_type": "Background",
+      "value": "moon"
+    }
+  ]
+}

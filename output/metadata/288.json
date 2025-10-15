@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #289",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/288.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "mexico"
+    },
+    {
+      "trait_type": "Body",
+      "value": "mexico"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "mexico"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "luxury"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "luxury"
+    },
+    {
+      "trait_type": "Button",
+      "value": "luxury"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "matryoshka"
+    },
+    {
+      "trait_type": "Background",
+      "value": "japan"
+    }
+  ]
+}

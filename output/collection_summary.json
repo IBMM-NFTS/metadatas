@@ -1,0 +1,417 @@
+{
+  "total_supply": 1176,
+  "trait_distribution": {
+    "Character": {
+      "ibmm": {
+        "count": 28,
+        "rarity_percentage": 2.38
+      },
+      "mcdonald": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "stable": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "rugby": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "gamer": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "oldmoney": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "egypt": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "china": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "ltc": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "japan": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "india": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "robot": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "luxury": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "mexico": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "elon": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "slavic-og": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "richkid": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "hockey": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "greece": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "squid": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "rock": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "fufaika": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "viking": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "harry": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "hiphop": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "toxic": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "cosmo": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "btc": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      },
+      "scam": {
+        "count": 41,
+        "rarity_percentage": 3.49
+      }
+    },
+    "ASIC": {
+      "crash": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "gamer": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "stable": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "khokhloma": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "rick": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "vhs": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "kaspa": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "rocket": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "btc": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "mcdonald": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "aqua": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "hiphop": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "retro": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "bullish": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "cyber": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "samurai": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "viking": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "doge": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "monero": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "nuclear": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "bch": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "mexico": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "bearish": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "shiba": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "ltc": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "pc": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "rock": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      },
+      "luxury": {
+        "count": 42,
+        "rarity_percentage": 3.57
+      }
+    },
+    "Addons": {
+      "gold": {
+        "count": 10,
+        "rarity_percentage": 0.85
+      },
+      "common": {
+        "count": 26,
+        "rarity_percentage": 2.21
+      },
+      "dollars": {
+        "count": 57,
+        "rarity_percentage": 4.85
+      },
+      "music": {
+        "count": 57,
+        "rarity_percentage": 4.85
+      },
+      "rocket": {
+        "count": 57,
+        "rarity_percentage": 4.85
+      },
+      "lambo": {
+        "count": 57,
+        "rarity_percentage": 4.85
+      },
+      "egypt": {
+        "count": 57,
+        "rarity_percentage": 4.85
+      },
+      "ton": {
+        "count": 57,
+        "rarity_percentage": 4.85
+      },
+      "ufo": {
+        "count": 57,
+        "rarity_percentage": 4.85
+      },
+      "china": {
+        "count": 57,
+        "rarity_percentage": 4.85
+      },
+      "tg": {
+        "count": 57,
+        "rarity_percentage": 4.85
+      },
+      "gamer": {
+        "count": 57,
+        "rarity_percentage": 4.85
+      },
+      "japan": {
+        "count": 57,
+        "rarity_percentage": 4.85
+      },
+      "electro": {
+        "count": 57,
+        "rarity_percentage": 4.85
+      },
+      "mcdonald": {
+        "count": 57,
+        "rarity_percentage": 4.85
+      },
+      "matryoshka": {
+        "count": 57,
+        "rarity_percentage": 4.85
+      },
+      "mexico": {
+        "count": 57,
+        "rarity_percentage": 4.85
+      },
+      "harry": {
+        "count": 57,
+        "rarity_percentage": 4.85
+      },
+      "viking": {
+        "count": 57,
+        "rarity_percentage": 4.85
+      },
+      "squid": {
+        "count": 57,
+        "rarity_percentage": 4.85
+      },
+      "scam": {
+        "count": 57,
+        "rarity_percentage": 4.85
+      },
+      "sakura": {
+        "count": 57,
+        "rarity_percentage": 4.85
+      }
+    },
+    "Background": {
+      "btc": {
+        "count": 44,
+        "rarity_percentage": 3.74
+      },
+      "bullish": {
+        "count": 45,
+        "rarity_percentage": 3.83
+      },
+      "doge": {
+        "count": 45,
+        "rarity_percentage": 3.83
+      },
+      "blockchain": {
+        "count": 45,
+        "rarity_percentage": 3.83
+      },
+      "bearish": {
+        "count": 45,
+        "rarity_percentage": 3.83
+      },
+      "hogwarts": {
+        "count": 56,
+        "rarity_percentage": 4.76
+      },
+      "winter": {
+        "count": 56,
+        "rarity_percentage": 4.76
+      },
+      "elon": {
+        "count": 56,
+        "rarity_percentage": 4.76
+      },
+      "subway": {
+        "count": 56,
+        "rarity_percentage": 4.76
+      },
+      "scam": {
+        "count": 56,
+        "rarity_percentage": 4.76
+      },
+      "japan": {
+        "count": 56,
+        "rarity_percentage": 4.76
+      },
+      "china": {
+        "count": 56,
+        "rarity_percentage": 4.76
+      },
+      "luxury": {
+        "count": 56,
+        "rarity_percentage": 4.76
+      },
+      "storm": {
+        "count": 56,
+        "rarity_percentage": 4.76
+      },
+      "mcdonald": {
+        "count": 56,
+        "rarity_percentage": 4.76
+      },
+      "moon": {
+        "count": 56,
+        "rarity_percentage": 4.76
+      },
+      "squid": {
+        "count": 56,
+        "rarity_percentage": 4.76
+      },
+      "rock": {
+        "count": 56,
+        "rarity_percentage": 4.76
+      },
+      "island": {
+        "count": 56,
+        "rarity_percentage": 4.76
+      },
+      "egypt": {
+        "count": 56,
+        "rarity_percentage": 4.76
+      },
+      "india": {
+        "count": 56,
+        "rarity_percentage": 4.76
+      },
+      "mars": {
+        "count": 56,
+        "rarity_percentage": 4.76
+      }
+    }
+  }
+}

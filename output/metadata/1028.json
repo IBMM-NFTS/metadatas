@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #1029",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/1028.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "richkid"
+    },
+    {
+      "trait_type": "Body",
+      "value": "richkid"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "richkid"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "mexico"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "mexico"
+    },
+    {
+      "trait_type": "Button",
+      "value": "mexico"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "viking"
+    },
+    {
+      "trait_type": "Background",
+      "value": "luxury"
+    }
+  ]
+}

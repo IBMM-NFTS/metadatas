@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #680",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/679.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "cosmo"
+    },
+    {
+      "trait_type": "Body",
+      "value": "cosmo"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "cosmo"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "pc"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "pc"
+    },
+    {
+      "trait_type": "Button",
+      "value": "pc"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "dollars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "scam"
+    }
+  ]
+}

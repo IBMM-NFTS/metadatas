@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #687",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/686.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "richkid"
+    },
+    {
+      "trait_type": "Body",
+      "value": "richkid"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "richkid"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "stable"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "stable"
+    },
+    {
+      "trait_type": "Button",
+      "value": "stable"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "egypt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "btc"
+    }
+  ]
+}

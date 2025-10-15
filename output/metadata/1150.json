@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #1151",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/1150.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "oldmoney"
+    },
+    {
+      "trait_type": "Body",
+      "value": "oldmoney"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "oldmoney"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "aqua"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "aqua"
+    },
+    {
+      "trait_type": "Button",
+      "value": "aqua"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "squid"
+    },
+    {
+      "trait_type": "Background",
+      "value": "japan"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #820",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/819.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "india"
+    },
+    {
+      "trait_type": "Body",
+      "value": "india"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "india"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "pc"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "pc"
+    },
+    {
+      "trait_type": "Button",
+      "value": "pc"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "mexico"
+    },
+    {
+      "trait_type": "Background",
+      "value": "subway"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #18",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/17.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "mexico"
+    },
+    {
+      "trait_type": "Body",
+      "value": "mexico"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "mexico"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "bullish"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "bullish"
+    },
+    {
+      "trait_type": "Button",
+      "value": "bullish"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "china"
+    },
+    {
+      "trait_type": "Background",
+      "value": "scam"
+    }
+  ]
+}

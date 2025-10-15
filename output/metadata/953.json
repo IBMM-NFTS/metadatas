@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #954",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/953.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "rock"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "rock"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "hiphop"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "hiphop"
+    },
+    {
+      "trait_type": "Button",
+      "value": "hiphop"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "japan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "storm"
+    }
+  ]
+}

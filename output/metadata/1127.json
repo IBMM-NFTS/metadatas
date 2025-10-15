@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #1128",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/1127.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "slavic-og"
+    },
+    {
+      "trait_type": "Body",
+      "value": "slavic-og"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "slavic-og"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "cyber"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "cyber"
+    },
+    {
+      "trait_type": "Button",
+      "value": "cyber"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "lambo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "subway"
+    }
+  ]
+}

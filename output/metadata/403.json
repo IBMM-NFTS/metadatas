@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #404",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/403.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "squid"
+    },
+    {
+      "trait_type": "Body",
+      "value": "squid"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "squid"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "crash"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "crash"
+    },
+    {
+      "trait_type": "Button",
+      "value": "crash"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "dollars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "egypt"
+    }
+  ]
+}

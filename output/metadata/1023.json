@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #1024",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/1023.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "gamer"
+    },
+    {
+      "trait_type": "Body",
+      "value": "gamer"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "gamer"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "shiba"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "shiba"
+    },
+    {
+      "trait_type": "Button",
+      "value": "shiba"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "electro"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hogwarts"
+    }
+  ]
+}

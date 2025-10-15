@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #1000",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/999.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "india"
+    },
+    {
+      "trait_type": "Body",
+      "value": "india"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "india"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "luxury"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "luxury"
+    },
+    {
+      "trait_type": "Button",
+      "value": "luxury"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "matryoshka"
+    },
+    {
+      "trait_type": "Background",
+      "value": "rock"
+    }
+  ]
+}

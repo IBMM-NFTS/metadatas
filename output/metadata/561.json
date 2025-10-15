@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #562",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/561.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "rock"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "rock"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "doge"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "doge"
+    },
+    {
+      "trait_type": "Button",
+      "value": "doge"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "matryoshka"
+    },
+    {
+      "trait_type": "Background",
+      "value": "island"
+    }
+  ]
+}

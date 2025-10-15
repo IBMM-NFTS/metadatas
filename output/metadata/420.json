@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #421",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/420.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "viking"
+    },
+    {
+      "trait_type": "Body",
+      "value": "viking"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "viking"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "luxury"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "luxury"
+    },
+    {
+      "trait_type": "Button",
+      "value": "luxury"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "lambo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mars"
+    }
+  ]
+}

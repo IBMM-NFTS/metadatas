@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #826",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/825.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "ibmm"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ibmm"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "ibmm"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Button",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "sakura"
+    },
+    {
+      "trait_type": "Background",
+      "value": "bearish"
+    }
+  ]
+}

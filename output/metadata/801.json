@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #802",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/801.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "hiphop"
+    },
+    {
+      "trait_type": "Body",
+      "value": "hiphop"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "hiphop"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "luxury"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "luxury"
+    },
+    {
+      "trait_type": "Button",
+      "value": "luxury"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "rocket"
+    },
+    {
+      "trait_type": "Background",
+      "value": "moon"
+    }
+  ]
+}

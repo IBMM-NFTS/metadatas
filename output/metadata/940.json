@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #941",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/940.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "fufaika"
+    },
+    {
+      "trait_type": "Body",
+      "value": "fufaika"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "fufaika"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "mexico"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "mexico"
+    },
+    {
+      "trait_type": "Button",
+      "value": "mexico"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "music"
+    },
+    {
+      "trait_type": "Background",
+      "value": "luxury"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #809",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/808.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "oldmoney"
+    },
+    {
+      "trait_type": "Body",
+      "value": "oldmoney"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "oldmoney"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "viking"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "viking"
+    },
+    {
+      "trait_type": "Button",
+      "value": "viking"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "common"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mars"
+    }
+  ]
+}

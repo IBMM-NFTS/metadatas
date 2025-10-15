@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #516",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/515.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "squid"
+    },
+    {
+      "trait_type": "Body",
+      "value": "squid"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "squid"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "kaspa"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "kaspa"
+    },
+    {
+      "trait_type": "Button",
+      "value": "kaspa"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "gold"
+    },
+    {
+      "trait_type": "Background",
+      "value": "island"
+    }
+  ]
+}

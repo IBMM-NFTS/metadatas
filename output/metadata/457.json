@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #458",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/457.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "india"
+    },
+    {
+      "trait_type": "Body",
+      "value": "india"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "india"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "vhs"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "vhs"
+    },
+    {
+      "trait_type": "Button",
+      "value": "vhs"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "rocket"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hogwarts"
+    }
+  ]
+}

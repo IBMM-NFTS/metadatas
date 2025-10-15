@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #345",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/344.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "hockey"
+    },
+    {
+      "trait_type": "Body",
+      "value": "hockey"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "hockey"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "vhs"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "vhs"
+    },
+    {
+      "trait_type": "Button",
+      "value": "vhs"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "ufo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "blockchain"
+    }
+  ]
+}

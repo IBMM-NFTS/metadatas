@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #118",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/117.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "india"
+    },
+    {
+      "trait_type": "Body",
+      "value": "india"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "india"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "gamer"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "gamer"
+    },
+    {
+      "trait_type": "Button",
+      "value": "gamer"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "electro"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mars"
+    }
+  ]
+}

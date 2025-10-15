@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #502",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/501.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "fufaika"
+    },
+    {
+      "trait_type": "Body",
+      "value": "fufaika"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "fufaika"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "ltc"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "ltc"
+    },
+    {
+      "trait_type": "Button",
+      "value": "ltc"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "squid"
+    },
+    {
+      "trait_type": "Background",
+      "value": "egypt"
+    }
+  ]
+}

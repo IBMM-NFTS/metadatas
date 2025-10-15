@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #1113",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/1112.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "fufaika"
+    },
+    {
+      "trait_type": "Body",
+      "value": "fufaika"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "fufaika"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "shiba"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "shiba"
+    },
+    {
+      "trait_type": "Button",
+      "value": "shiba"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "rocket"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hogwarts"
+    }
+  ]
+}

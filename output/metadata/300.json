@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #301",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/300.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "harry"
+    },
+    {
+      "trait_type": "Body",
+      "value": "harry"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "harry"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "btc"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "btc"
+    },
+    {
+      "trait_type": "Button",
+      "value": "btc"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "harry"
+    },
+    {
+      "trait_type": "Background",
+      "value": "india"
+    }
+  ]
+}

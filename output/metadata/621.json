@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #622",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/621.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "viking"
+    },
+    {
+      "trait_type": "Body",
+      "value": "viking"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "viking"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Button",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "tg"
+    },
+    {
+      "trait_type": "Background",
+      "value": "luxury"
+    }
+  ]
+}

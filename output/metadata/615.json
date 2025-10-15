@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #616",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/615.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "btc"
+    },
+    {
+      "trait_type": "Body",
+      "value": "btc"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "btc"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "stable"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "stable"
+    },
+    {
+      "trait_type": "Button",
+      "value": "stable"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "gamer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hogwarts"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #761",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/760.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "hockey"
+    },
+    {
+      "trait_type": "Body",
+      "value": "hockey"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "hockey"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "bullish"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "bullish"
+    },
+    {
+      "trait_type": "Button",
+      "value": "bullish"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "ton"
+    },
+    {
+      "trait_type": "Background",
+      "value": "rock"
+    }
+  ]
+}

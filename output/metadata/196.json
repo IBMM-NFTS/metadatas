@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #197",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/196.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "elon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "elon"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "elon"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "mcdonald"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "mcdonald"
+    },
+    {
+      "trait_type": "Button",
+      "value": "mcdonald"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "music"
+    },
+    {
+      "trait_type": "Background",
+      "value": "island"
+    }
+  ]
+}

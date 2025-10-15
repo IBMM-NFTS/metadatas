@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #1087",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/1086.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "elon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "elon"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "elon"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "rick"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "rick"
+    },
+    {
+      "trait_type": "Button",
+      "value": "rick"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "ton"
+    },
+    {
+      "trait_type": "Background",
+      "value": "china"
+    }
+  ]
+}

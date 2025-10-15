@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #196",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/195.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "india"
+    },
+    {
+      "trait_type": "Body",
+      "value": "india"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "india"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "doge"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "doge"
+    },
+    {
+      "trait_type": "Button",
+      "value": "doge"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "harry"
+    },
+    {
+      "trait_type": "Background",
+      "value": "mars"
+    }
+  ]
+}

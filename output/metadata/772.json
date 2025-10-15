@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #773",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/772.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "squid"
+    },
+    {
+      "trait_type": "Body",
+      "value": "squid"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "squid"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "vhs"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "vhs"
+    },
+    {
+      "trait_type": "Button",
+      "value": "vhs"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "gold"
+    },
+    {
+      "trait_type": "Background",
+      "value": "moon"
+    }
+  ]
+}

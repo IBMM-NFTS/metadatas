@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #195",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/194.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "egypt"
+    },
+    {
+      "trait_type": "Body",
+      "value": "egypt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "egypt"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "rock"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "rock"
+    },
+    {
+      "trait_type": "Button",
+      "value": "rock"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "ufo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "moon"
+    }
+  ]
+}

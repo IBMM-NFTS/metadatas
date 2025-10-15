@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #88",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/87.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "robot"
+    },
+    {
+      "trait_type": "Body",
+      "value": "robot"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "robot"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "cyber"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "cyber"
+    },
+    {
+      "trait_type": "Button",
+      "value": "cyber"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "electro"
+    },
+    {
+      "trait_type": "Background",
+      "value": "india"
+    }
+  ]
+}

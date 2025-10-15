@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #1147",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/1146.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "scam"
+    },
+    {
+      "trait_type": "Body",
+      "value": "scam"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "scam"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "vhs"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "vhs"
+    },
+    {
+      "trait_type": "Button",
+      "value": "vhs"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "china"
+    },
+    {
+      "trait_type": "Background",
+      "value": "luxury"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #1126",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/1125.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "greece"
+    },
+    {
+      "trait_type": "Body",
+      "value": "greece"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "greece"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "nuclear"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "nuclear"
+    },
+    {
+      "trait_type": "Button",
+      "value": "nuclear"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "ufo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "bearish"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #66",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/65.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "robot"
+    },
+    {
+      "trait_type": "Body",
+      "value": "robot"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "robot"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "mcdonald"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "mcdonald"
+    },
+    {
+      "trait_type": "Button",
+      "value": "mcdonald"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "scam"
+    },
+    {
+      "trait_type": "Background",
+      "value": "scam"
+    }
+  ]
+}

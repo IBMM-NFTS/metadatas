@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #913",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/912.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "harry"
+    },
+    {
+      "trait_type": "Body",
+      "value": "harry"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "harry"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "retro"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "retro"
+    },
+    {
+      "trait_type": "Button",
+      "value": "retro"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "egypt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "hogwarts"
+    }
+  ]
+}

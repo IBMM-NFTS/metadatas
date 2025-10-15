@@ -1,0 +1,38 @@
+{
+  "name": "Hashworker #435",
+  "image": "https://raw.githubusercontent.com/IBMM-NFTS/metadatas/refs/heads/main/output/images/434.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "btc"
+    },
+    {
+      "trait_type": "Body",
+      "value": "btc"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "btc"
+    },
+    {
+      "trait_type": "Miner",
+      "value": "aqua"
+    },
+    {
+      "trait_type": "Cooler",
+      "value": "aqua"
+    },
+    {
+      "trait_type": "Button",
+      "value": "aqua"
+    },
+    {
+      "trait_type": "Addons",
+      "value": "electro"
+    },
+    {
+      "trait_type": "Background",
+      "value": "india"
+    }
+  ]
+}
